@@ -1,0 +1,804 @@
+Aatrox
+Passive: 180 / 160 / 140 / 120
+Q: 16 / 15 / 14 / 13 / 12
+W: 0.5
+E: 12 / 11 / 10 / 9 / 8
+R: 100 / 85 / 70
+Ahri
+Passive: No CD
+Q: 7 for all levels.
+W: 9 / 8 / 7 / 6 / 5
+E: 12 for all levels.
+R: 100 / 95 / 80
+Akali
+Passive: No CD
+Q: 6 / 5.5 / 5 / 4.5 / 4
+W: 20 for all levels.
+E: 5 / 4.5 / 4 / 3.5 / 3
+R: 0 [Recharge: 30/22.5/15]
+Alistar
+Passive: No CD
+Q: 17 / 16 / 15 / 14 / 13
+W: 14 / 13 / 12 / 11 / 10
+E: 16 / 15.5 / 15 / 14.5 / 14
+R: 120 / 100 / 80
+Amumu
+Passive: No CD
+Q: 16 / 14 / 12 / 10 / 8
+W: 1 for all levels.
+E: 10 / 9 / 8 / 7 / 6
+R: 150 / 130 / 110
+Anivia
+Passive: 240
+Q: 12 / 11 / 10 / 9 / 8
+W: 17
+E: 4
+R: 6
+Annie
+Passive: Every 4 spells.
+Q: 4
+W: 8
+E: 10
+R: 120 / 100 / 80
+Ashe
+Passive: No CD
+Q: No CD [After 1-4 stack(s)]
+W: 15 / 12.5 / 10 / 7.5 / 5
+E: 5 (90 / 80 / 70 / 60 / 50 Recharge)
+R: 100 / 90 / 80
+AurelionSol
+Passive: No CD
+Q: 10
+W: 6 / 5.5 / 5 / 4.5 / 4
+E: 60 / 55 / 50 / 45 / 40
+R: 120 / 100 / 80
+Azir
+Passive: 180
+Q: 10 / 9 / 8 / 7 / 6
+W: 1.5 [RECHARGE TIME: 10 / 9 / 8 / 7 / 6]
+E: 19 / 18 / 17 / 16 / 15
+R: 140 / 120 / 100
+Bard
+Passive: No CD [Collect those Meeps :3]
+Q: 11 / 10 / 9 / 8 / 7
+W: 12
+E: 18 / 17 / 16 / 15 / 14
+R: 130 / 115 / 90
+Blitzcrank
+Passive: 90
+Q: 20 / 19 / 18 / 17 / 16
+W: 15
+E: 9 / 8 / 7 / 6 / 5
+R: 60 / 40 / 20
+Brand
+Passive: No CD [Stack based; After 3 stacks]
+Q: 8 / 7.5 / 7 / 6.5 / 6
+W: 10 / 9.5 / 9 / 8.5 / 8
+E: 10 / 9 / 8 / 7 / 6
+R: 105 / 90 / 75
+Braum
+Passive: 8 / 7 / 6
+Q: 10 / 9 / 8 / 7 / 6
+W: 14 / 13 / 12 / 11 / 10
+E: 18 / 16 / 14 / 12 / 10
+R: 140 / 120 / 100
+Caitlyn
+Passive: No CD [Stack based; After 6 stacks || Yordle Trap || 90 Caliber Net]
+Q: 10 / 9 / 8 / 7 / 6
+W: 45 / 32.5 / 20 / 12.5 / 10
+E: 16 / 14.5 / 13 / 11.5 / 10
+R: 90 / 75 / 60
+Camille
+Passive: 20 / 15 / 10
+Q: 9 / 8.25 / 7.5 / 6.75 / 6
+W: 15 / 13.5 / 12 / 10.5 / 9
+E: 16 / 14.5 / 13 / 11.5 / 10
+R: 140 / 115 / 90
+Cassiopeia
+Passive: No CD [Level based; As Level Increases, so does her Speed]
+Q: 3.5
+W: 18 / 17 / 16 / 15 / 14
+E: 0.75
+R: 120 / 100 / 80
+Cho'Gath
+Passive: No CD
+Q: 9
+W: 13 / 12 / 11 / 10 / 9
+E: No CD [Toggle Based]
+R: 80
+Corki
+Passive: 240
+Q: 8
+W: 20 / 19 / 18 / 17 / 16
+E: 16
+R: 2 [Recharge CD: 12 / 11 / 10]
+Darius
+Passive: No CD
+Q: 9 / 8 / 7 / 6 / 5
+W: 9 / 8 / 7 / 6 / 5
+E: 24 / 21 / 18 / 15 / 12
+R: 120 / 100 / 80
+Diana
+Passive: No CD [Stack Based; Every three autos]
+Q: 10 / 9 / 8 / 7 / 6
+W: 10
+E: 26 / 24 / 22 / 20 / 18
+R: 25 / 20 / 15
+Mundo
+Passive: No CD
+Q: 4
+W: 4
+E: 6
+R: 100 / 85 / 70
+Draven
+Passive: No CD [Stack Based; CATCH AXES/KILL MINIONS/TURRETS -> ??? -> $$$]
+Q: 12 / 11 / 10 / 9 / 8
+W: 12
+E: 18 / 17 / 16 / 15 / 14
+R: 120 / 100 / 80
+Ekko
+Passive: 5 [On-Target Based; Only able to stack every 5 seconds]
+Q: 9 / 8.5 / 8 / 7.5 / 7
+W: 22 / 20 / 18 / 16 / 14
+E: 11 / 10 / 9 / 8 / 7
+R: 110 / 90 / 70
+Elise
+Passive: No CD
+Q: 6 
+W: 12
+E: 14 / 13 / 12 / 11 / 10
+R: 4
+Evelynn
+Passive: No CD [Out-of-Combat Based; After 6 / 5 / 4 / 3 seconds become camouflaged]
+Q: 1.5
+W: 15
+E: 9
+R: 120 / 100 / 80
+Ezreal
+Passive: No CD [Stack Based; More skills you hit, more attack speed]
+Q: 6.5 / 6 / 5.5 / 5 / 4.5
+W: 9
+E: 19 / 17.5 / 16 / 14.5 / 13
+R: 120
+Fiddlesticks
+Passive: No CD [Standing Based; After 1.5 of standing still, you get bonus movement speed]
+Q: 15 / 14 / 13 / 12 / 11
+W: 4 / 3.75 / 3.5 / 3.25 / 3
+E: 12 / 11.5 / 11 / 10.5 / 10
+R: 150 / 140 / 130
+Fiora
+Passive: No CD [Target Based; After 0.5 vital appears then stays for 15 seconds.]
+Q: 16 / 14 / 12 / 10 / 8
+W: 24 / 22 / 20 / 18 / 16
+E: 13 / 11 / 9 / 7 / 5
+R: 110 / 90 / 70
+Fizz
+Passive: No CD
+Q: 8 / 7.5 / 7 / 6.5 / 6
+W: 10 / 9.5 / 9 / 8.5 / 8
+E: 18 / 16 / 14 / 12 / 10
+R: 100 / 85 / 70
+Galio
+Passive: 8
+Q: 10 / 9 / 8 / 7 / 6
+W: 16 / 15 / 14 / 13 / 12
+E: 14 / 13 / 12 / 11 / 10
+R: 160 / 140 / 120
+Gangplank
+Passive: 15
+Q: 5
+W: 22 / 20 / 18 / 16 / 14
+E: 18 / 16 / 14 / 12 / 10
+R: 180 / 160 / 140
+Garen
+Passive: 0.5 (when not attacked)
+Q: 8
+W: 24 / 23 / 22 / 21 / 20
+E: 9
+R: 120 / 100 / 80
+Gnar
+Passive:
+Q: 20 / 17.5 / 15 / 12.5 / 10
+W: No CD as Mini [Stack Based; Every third attack] 15 / 13 / 11 / 9 / 7 as Mega
+E: 22 / 19.5 / 17 / 14.5 / 12
+R: 120 / 100 / 80
+Gragas
+Passive: 8
+Q: 11 / 10 / 9 / 8 / 7
+W: 8 / 7 / 6 / 5 / 4
+E: 16 / 15 / 14 / 13 / 12
+R: 100 / 90 / 80
+Graves
+Passive: 2.079, reduced by 0.4% of every 1% bonus attack speed.
+Q: 14 / 13 / 12 / 11 / 10
+W: 26 / 24 / 22 / 20 / 18
+E: 18 / 17 / 16 / 15 / 14
+R: 100 / 90 / 80
+Hecarim
+Passive:
+Q:
+W:
+E:
+R:
+Heimerdinger
+Passive:
+Q:
+W:
+E:
+R:
+Illaoi
+Passive:
+Q:
+W:
+E:
+R:
+Irelia
+Passive:
+Q:
+W:
+E:
+R:
+Ivern
+Passive:
+Q:
+W:
+E:
+R:
+Janna
+Passive:
+Q:
+W:
+E:
+R:
+Jarvan
+Passive:
+Q:
+W:
+E:
+R:
+Jax
+Passive:
+Q:
+W:
+E:
+R:
+Jayce
+Passive:
+Q:
+W:
+E:
+R:
+Jhin
+Passive:
+Q:
+W:
+E:
+R:
+Jinx
+Passive:
+Q:
+W:
+E:
+R:
+Kalista
+Passive:
+Q:
+W:
+E:
+R:
+Karma
+Passive:
+Q:
+W:
+E:
+R:
+Karthus
+Passive:
+Q:
+W:
+E:
+R:
+Kassadin
+Passive:
+Q:
+W:
+E:
+R:
+Katarina
+Passive:
+Q:
+W:
+E:
+R:
+Kayle
+Passive:
+Q:
+W:
+E:
+R:
+Kennen
+Passive:
+Q:
+W:
+E:
+R:
+Khazix
+Passive: No CD [Target Based; When an enemy is caught out alone]
+Q: 4
+W: 9
+E: 20 / 18 / 16 / 14 / 12
+R: 100 / 90 / 80
+Kindred
+Passive:
+Q:
+W:
+E:
+R:
+Kled
+Passive:
+Q:
+W:
+E:
+R:
+KogMaw
+Passive:
+Q:
+W:
+E:
+R:
+LeBlanc
+Passive:
+Q:
+W:
+E:
+R:
+LeeSin
+Passive:
+Q:
+W:
+E:
+R:
+Leona
+Passive:
+Q:
+W:
+E:
+R:
+Lissandra
+Passive:
+Q:
+W:
+E:
+R:
+Lucian
+Passive:
+Q:
+W:
+E:
+R:
+Lulu
+Passive:
+Q:
+W:
+E:
+R:
+Lux
+Passive:
+Q:
+W:
+E:
+R:
+Malphite
+Passive:
+Q:
+W:
+E:
+R:
+Malzahar
+Passive:
+Q:
+W:
+E:
+R:
+Maokai
+Passive:
+Q:
+W:
+E:
+R:
+MasterYi
+Passive:
+Q:
+W:
+E:
+R:
+MissFortune
+Passive:
+Q:
+W:
+E:
+R:
+Mordekaiser
+Passive:
+Q:
+W:
+E:
+R:
+Morgana
+Passive:
+Q:
+W:
+E:
+R:
+Nami
+Passive:
+Q:
+W:
+E:
+R:
+Nasus
+Passive:
+Q:
+W:
+E:
+R:
+Nautilus
+Passive:
+Q:
+W:
+E:
+R:
+Nidalee
+Passive:
+Q:
+W:
+E:
+R:
+Nocturne
+Passive:
+Q:
+W:
+E:
+R:
+Nunu
+Passive:
+Q:
+W:
+E:
+R:
+Olaf
+Passive:
+Q:
+W:
+E:
+R:
+Orianna
+Passive:
+Q:
+W:
+E:
+R:
+Pantheon
+Passive:
+Q:
+W:
+E:
+R:
+Poppy
+Passive:
+Q:
+W:
+E:
+R:
+Quinn
+Passive:
+Q:
+W:
+E:
+R:
+Rammus
+Passive:
+Q:
+W:
+E:
+R:
+Rek'Sai
+Passive:
+Q:
+W:
+E:
+R:
+Renekton
+Passive:
+Q:
+W:
+E:
+R:
+Rengar
+Passive:
+Q:
+W:
+E:
+R:
+Riven
+Passive:
+Q:
+W:
+E:
+R:
+Rumble
+Passive:
+Q:
+W:
+E:
+R:
+Ryze
+Passive:
+Q:
+W:
+E:
+R:
+Sejuani
+Passive:
+Q:
+W:
+E:
+R:
+Shaco
+Passive:
+Q:
+W:
+E:
+R:
+Shen
+Passive:
+Q:
+W:
+E:
+R:
+Shyvana
+Passive:
+Q:
+W:
+E:
+R:
+Singed
+Passive:
+Q:
+W:
+E:
+R:
+Sion
+Passive:
+Q:
+W:
+E:
+R:
+Sivir
+Passive:
+Q:
+W:
+E:
+R:
+Skarner
+Passive:
+Q:
+W:
+E:
+R:
+Sona
+Passive:
+Q:
+W:
+E:
+R:
+Soraka
+Passive:
+Q:
+W:
+E:
+R:
+Swain
+Passive:
+Q:
+W:
+E:
+R:
+Syndra
+Passive:
+Q:
+W:
+E:
+R:
+TahmKench
+Passive:
+Q:
+W:
+E:
+R:
+Taliyah
+Passive:
+Q:
+W:
+E:
+R:
+Talon
+Passive:
+Q:
+W:
+E:
+R:
+Taric
+Passive:
+Q:
+W:
+E:
+R:
+Teemo
+Passive:
+Q:
+W:
+E:
+R:
+Thresh
+Passive:
+Q:
+W:
+E:
+R:
+Tristana
+Passive:
+Q:
+W:
+E:
+R:
+Trundle
+Passive:
+Q:
+W:
+E:
+R:
+Tryndamere
+Passive:
+Q:
+W:
+E:
+R:
+TwistedFate
+Passive:
+Q:
+W:
+E:
+R:
+Twitch
+Passive:
+Q:
+W:
+E:
+R:
+Udyr
+Passive:
+Q:
+W:
+E:
+R:
+Urgot
+Passive:
+Q:
+W:
+E:
+R:
+Varus
+Passive:
+Q:
+W:
+E:
+R:
+Vayne
+Passive:
+Q:
+W:
+E:
+R:
+Veigar
+Passive:
+Q:
+W:
+E:
+R:
+Vel'Koz
+Passive:
+Q:
+W:
+E:
+R:
+Vi
+Passive:
+Q:
+W:
+E:
+R:
+Viktor
+Passive:
+Q:
+W:
+E:
+R:
+Vladimir
+Passive:
+Q:
+W:
+E:
+R:
+Volibear
+Passive:
+Q:
+W:
+E:
+R:
+Warwick
+Passive:
+Q:
+W:
+E:
+R:
+Wukong
+Passive:
+Q:
+W:
+E:
+R:
+Xerath
+Passive:
+Q:
+W:
+E:
+R:
+XinZhao
+Passive:
+Q:
+W:
+E:
+R:
+Yasuo
+Passive:
+Q:
+W:
+E:
+R:
+Yorick
+Passive:
+Q:
+W:
+E:
+R:
+Zac
+Passive:
+Q:
+W:
+E:
+R:
+Zed
+Passive:
+Q:
+W:
+E:
+R:
+Ziggs
+Passive:
+Q:
+W:
+E:
+R:
+Zilean
+Passive:
+Q:
+W:
+E:
+R:
+Zyra
+Passive:
+Q:
+W:
+E:
+R:
